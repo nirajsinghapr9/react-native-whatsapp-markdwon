@@ -1,0 +1,27 @@
+{
+  "name": "react-native-whatsapp-markdown",
+  "version": "1.0.1",
+  "description": "This package takes text with mardown tags like * ~ and other like whatsapp and return html with markdown ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajsinghapr9/react-native-whatsapp-markdwon.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-package",
+    "whatsapp",
+    "markdown",
+    "whatsapp",
+    "formatting"
+  ],
+  "author": "Niraj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajsinghapr9/react-native-whatsapp-markdwon/issues"
+  },
+  "homepage": "https://github.com/nirajsinghapr9/react-native-whatsapp-markdwon#readme"
+}
