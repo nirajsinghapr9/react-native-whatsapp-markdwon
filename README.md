@@ -1,6 +1,7 @@
 # react-native-whatsapp-markdwon
 
-Description:
+*Description:*
+
 This JavaScript library mimics WhatsApp's markdown behavior. It processes text with markdown escape characters as used in WhatsApp and outputs HTML with corresponding styling tags. You can then render this HTML using any HTML renderer library.
 
 If you're interested in using it, here's how you can get started:
@@ -11,7 +12,12 @@ Rendering: Display the rendered HTML using your preferred HTML rendering library
 
 This library simplifies the process of converting WhatsApp-style markdown into HTML for seamless display in applications.
 
-How to use : 
+*How to use:* 
+
+Install package using:
+npm i react-native-whatsapp-markdown
+
+
 const markdownText= TextFormatter("*bold*")
 
 
@@ -23,7 +29,7 @@ const markdownText= TextFormatter("*bold*")
 </RenderHTML>
 
 
-Example:-
+*Example:-*
 
 
 
