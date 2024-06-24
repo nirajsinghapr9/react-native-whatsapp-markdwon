@@ -12,6 +12,7 @@ Rendering: Display the rendered HTML using your preferred HTML rendering library
 
 This library simplifies the process of converting WhatsApp-style markdown into HTML for seamless display in applications.
 
+
 *How to use:* 
 
 Install package using:
@@ -32,6 +33,19 @@ Install package using:
 
 
 *Example:-*
+
+
+// Bold: *text*
+// Italic: _text_
+// Strikethrough: ~text~
+// Code block (triple backticks): ` ` `  ` ` ` 
+// Inline code: ` `
+// Bulleted list: * text or - text (only if there is a space after * or -)
+// Quote block: > text
+// Replace newline characters with <br> tags
+// URL
+
+
 
 
 
