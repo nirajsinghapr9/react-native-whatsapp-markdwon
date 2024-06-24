@@ -36,13 +36,21 @@ Install package using:
 
 
 // Bold: *text*
+ 
 // Italic: _text_
+ 
 // Strikethrough: ~text~
+ 
 // Code block (triple backticks): ` ` `  ` ` ` 
-// Inline code: ` `
+ 
+// Inline code: ` ` 
+
 // Bulleted list: * text or - text (only if there is a space after * or -)
+ 
 // Quote block: > text
+ 
 // Replace newline characters with <br> tags
+ 
 // URL
 
 
