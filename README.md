@@ -15,18 +15,20 @@ This library simplifies the process of converting WhatsApp-style markdown into H
 *How to use:* 
 
 Install package using:
-npm i react-native-whatsapp-markdown
 
 
-const markdownText= TextFormatter("*bold*")
+```npm i react-native-whatsapp-markdown```
 
 
-<RenderHTML
-          contentWidth={metrics.screenWidth}
-          source={{html: markdownText}}
-          baseStyle={{color: NEW_COLORS.black80, fontSize: moderateScale(15)}}
-        >
-</RenderHTML>
+```const markdownText= TextFormatter("*bold*")```
+
+
+```<RenderHTML```
+          ```contentWidth={metrics.screenWidth}```
+          ```source={{html: markdownText}}```
+          ```baseStyle={{color: NEW_COLORS.black80, fontSize: moderateScale(15)}}```
+        ```>```
+```</RenderHTML>```
 
 
 *Example:-*
