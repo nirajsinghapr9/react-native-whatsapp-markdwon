@@ -1,6 +1,6 @@
 {
   "name": "react-native-whatsapp-markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package takes text with mardown tags like * ~ and other like whatsapp and return html with markdown ",
   "main": "index.ts",
   "scripts": {
