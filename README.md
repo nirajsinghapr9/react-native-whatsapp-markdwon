@@ -47,13 +47,11 @@ Install package using:
 
 // Bulleted list: * text or - text (only if there is a space after * or -)
  
-// Quote block: > text
- 
 // Replace newline characters with <br> tags
  
 // URL
 
-
+NOTE:- WE DONT NOT SUPPORT QUOTE FOR NOW, PLEASE RAISE PR IF THIS ISSUE IS FIXED
 
 
 
